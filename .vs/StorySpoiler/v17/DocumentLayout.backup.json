@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\Back-End-Test-Automation\\StorySpoiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4082D27-1CCE-4C0B-8A3E-C49350EE5C7E}|StorySpoiler\\StorySpoiler.csproj|c:\\coding\\back-end-test-automation\\storyspoiler\\storyspoiler\\storytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4082D27-1CCE-4C0B-8A3E-C49350EE5C7E}|StorySpoiler\\StorySpoiler.csproj|solutionrelative:storyspoiler\\storytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryTests.cs",
+              "DocumentMoniker": "C:\\Coding\\Back-End-Test-Automation\\StorySpoiler\\StorySpoiler\\StoryTests.cs",
+              "RelativeDocumentMoniker": "StorySpoiler\\StoryTests.cs",
+              "ToolTip": "C:\\Coding\\Back-End-Test-Automation\\StorySpoiler\\StorySpoiler\\StoryTests.cs",
+              "RelativeToolTip": "StorySpoiler\\StoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:10:15.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
